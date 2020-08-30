@@ -1,5 +1,5 @@
 # Hotel Traversy
-![udemy screenshot](.\images\project.png)
+![udemy screenshot](\images\project.png)
 > Small basic project on Brad Traversy's CSS course called "Hotel Website."
 
 ---

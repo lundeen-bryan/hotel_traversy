@@ -1,5 +1,5 @@
 # Hotel Traversy
-![udemy screenshot](.\images\project.png)
+![udemy screenshot](./images/project.png)
 > Small basic project on Brad Traversy's CSS course called "Hotel Website."
 
 ---
@@ -21,8 +21,9 @@ See the [Hotel Traversy]() on Netlify.
 ---
 
 ## Description
-Very basic project using only HTML/CSS without being too responsive such as not stacking buttons at smaller sizes of browser. It�s just to practice CSS basics.  
-Project based on [Modern HTML & CSS From The Beginning (Including Sass)]( https://www.udemy.com/course/modern-html-css-from-the-beginning/)
+Very basic project using only HTML/CSS without being too responsive such as not stacking buttons at smaller sizes of browser. It's just to practice CSS basics.  
+Project based on
+<a href="https://www.udemy.com/course/modern-html-css-from-the-beginning/" target="_blank">Modern HTML & CSS From The Beginning (Including Sass)</a>
 #### Technologies
 - HTML
 - CSS
